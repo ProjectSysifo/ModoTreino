@@ -23,7 +23,7 @@ Criar um site de página única (**SPA**) para treinar a equipe em manipulação
   <tbody>
     <tr>
       <td><b>🎨 Frontend</b></td>
-      <td>React, Vue.js ou Svelte</td>
+      <td>js html css</td>
     </tr>
     <tr>
       <td><b>⚙️ Backend</b></td>
