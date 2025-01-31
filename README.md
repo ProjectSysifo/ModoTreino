@@ -5,18 +5,8 @@ Criar um site de página única (**SPA**) para treinar a equipe em manipulação
 
 ## **⚙️ Funcionalidades**  
 
-### **🔐 Autenticação e Perfis**  
-- 🔑 Login seguro com **JWT, OAuth ou Cookies**.  
-- 👥 Perfis de usuário:  
-  - 🧑‍🌾 **Aldeão** (usuário comum).  
-  - 🛡️ **Mod** (moderador).  
-
 ### **🗂️ CRUD com PostgreSQL**  
 - 🔄 Gerenciamento dinâmico de conteúdo via **API REST**.  
-
-### **📰 Feed de Atualizações**  
-- 📌 Postagens organizadas por tempo (**24h, semana, mês**).  
-- 💬 Interações disponíveis: **👍 Curtidas, 💬 Comentários**.  
 
 ### **🧩 Containers Modulares**  
 - 🏗️ Componentes do site mudam dinamicamente conforme as interações do usuário.  
